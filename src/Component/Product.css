@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.images{
+ height: 20vw;
+ width: 20vw;
+}
+.title{
+    font-size: 20px;
+  }
